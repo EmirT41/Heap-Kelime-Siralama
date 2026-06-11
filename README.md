@@ -26,7 +26,7 @@ Program, dosyadan okunan her kelime için Heap yapısını dinamik olarak günce
 Aşağıdaki şemada, `Kocaeli, Konya, Van, Ankara, Konya, Sivas, Adana, Adana` kelime dizisinin sisteme sırayla girilmesiyle oluşan 2 anahtarlı Heap ağacının adım adım evrimi gösterilmektedir:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/heap_step_by_step.jpg" alt="Heap Adım Adım Çalışma Mantığı" width="700"/>
+  <img src="https://raw.githubusercontent.com/EmirT41/Heap-Kelime-Siralama/main/`heap_step_by_step.jpg.png" alt="Heap Adım Adım Çalışma Mantığı" width="700"/>
 </p>
 
 *Not: Yukarıdaki görsel ödev dokümanında yer alan resmi Heap ağacı simülasyonunu temsil etmektedir.*
