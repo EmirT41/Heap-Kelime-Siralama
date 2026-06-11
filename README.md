@@ -41,3 +41,41 @@ Proje **.NET 8.0** SDK kullanılarak geliştirilmiştir. Çalıştırmak için b
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd YOUR_REPO_NAME
+
+2. Projeyi derleyin:
+   ```bash
+   dotnet build
+
+3. Uygulamayı çalıştırın:
+   ```bash
+   dotnet run
+
+## 📊 Örnek Girdi ve Çıktı
+
+1. ornek.txt İçeriği:
+Elma armut elma kiraz
+armut kiraz kiraz elma
+Üzüm elma üzüm
+
+2. Terminal Çıktısı:
+┌─────────────────────────────────────────┐
+│  Dosya  : ornek.txt                     │
+│  Satır  : 3                             │
+└─────────────────────────────────────────┘
+
+  ✔ Toplam kelime (tekrar dahil) : 11
+  ✔ Benzersiz kelime sayısı      : 4
+  ✔ En sık geçen kelime         : "elma" (4 kez)
+
+  ┌──────────────────────────────────────────────────┐
+  │   KELİME               FREKANS   GÖRSEL DAĞILIM  │
+  ├──────────────────────────────────────────────────┤
+  │   armut                    2     ██████████      │
+  │   elma                     4     ████████████████████
+  │   kiraz                    3     ███████████████ │
+  │   üzüm                     2     ██████████      │
+  └──────────────────────────────────────────────────┘
+   
+
+
+       
