@@ -2,7 +2,7 @@
 
 Bu proje, verilen bir `.txt` dosyasındaki kelimelerin frekanslarını (dosyada kaçar kez geçtiklerini) sayan ve bu verileri **2 ayrı anahtarla çalışan özel bir Min-Heap** veri yapısı kullanarak sıralayan bir konsol uygulamasıdır. 
 
-Kocaeli Sağlık ve Teknoloji Üniversitesi, Bilgisayar/Yazılım Mühendisliği Bölümü **Programlama Laboratuvarı II - Proje 3** isterleri doğrultusunda geliştirilmiştir.
+Kocaeli Sağlık ve Teknoloji Üniversitesi,  **Programlama Laboratuvarı II - Proje 3** isterleri doğrultusunda geliştirilmiştir.
 
 ---
 
